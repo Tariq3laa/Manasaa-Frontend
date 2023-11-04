@@ -1,0 +1,36 @@
+.btnGetStarted{
+    background-color: #154ED5 !important;
+    color: white !important;
+    border-radius: 8px !important;
+}
+.btnGetStarted:hover{
+    background-color: #1145be !important;
+}
+.bgPrimary{
+    background-color: #5456A3;
+}
+.cardFeature{
+    padding: 1rem 1.5rem;
+    background-color: #E1E0FF;
+    min-height: 13rem;
+    border-radius: 12px;
+}
+.footerHome{
+    background-color: #101b3f;
+}
+.imgFlip{
+    transform:scaleX(-1) !important;
+}
+.edit_profile .header-item{
+    height: 55px;
+    background-color: white;
+}
+@media screen and (max-width:550px){
+    .logoFrist{
+        height: 65px !important;
+        margin-top: 1rem;
+    }
+}
+.chatStyle .rsc-header-title{
+    color: white !important;
+}
